@@ -70,7 +70,7 @@ def song(client, message):
         m.edit("❌ Found Nothing.\n\nTry another keywork or maybe spell it properly.")
         print(str(e))
         return
-    m.edit("Downloading your song ")
+    m.edit("Downloading your song")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
