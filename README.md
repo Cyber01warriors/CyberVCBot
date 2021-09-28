@@ -2,7 +2,7 @@
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [MARSHALX TGCALLS](https://github.com/MarshalX/tgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Cyber_VC_player_bot](https://t.me/cyber_VC_player_bot)
 
 <p align="center">
   <img src="https://cdn5.telesco.pe/file/diRZ0Z07yCl3oYugH1WHKkzTZ3-Y0ceG3-bWB63wirYpTUNnb2c997mCsMTmeYTwBq6MTUQvzxg9F35A0M4z3NhcIrwQO4_TUh5TlNp_0kg2lX_JhCJM7LKFxKcO78exL1TIwWtco9flQYKLkMALoeV4BQjeVzxmQR18lwsYdgFSxDlLa25hg3q810erf5oLG_wGphOOi6cRibqiUACaOi0-jlD_xjxw0a_FSpTxPqY6Q-eQC0uF-Wa_5yjMPSIoBUA7KMISYci04-CVLtLrfd4BFtteoFGY1NnPM3FixF1eb-Na9rXnu3V8Y1KwH6EpTxJwGLkMiqZ-T9sVT6O1Uw.jpg">
