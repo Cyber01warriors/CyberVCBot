@@ -10,7 +10,7 @@
 
 ### Developers:
 
-[@Cyber01_Warriors](https://t.me/Cyber01_Warriors)
+[𝗖𝗬𝗕𝗘𝗥 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦丨【𝗙 𝗛 𝗕】](https://t.me/Cyber01_Warriors)
 
 
 <h2> Features 🔥 </h2>
